@@ -23,7 +23,7 @@ public class MovieController {
 		return service.findAll(pegeable);
 	}
 
-	@GetMapping(value = "/{id}")
+	@GetMapping(path = "/{id}")
 	public MovieDTO findById(@PathVariable Long id) {
 		return service.findById(id);
 	}
