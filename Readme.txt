@@ -1,0 +1,1 @@
+Olá, aqui está o diretório da Semana Spring React realizada pela DevSuperior com o professor Nélio Alves. Durante uma semana foi lecionado como fazer a interação do frontend em HTML5/TypeScript/CSS com o backend em Java gerido pelo banco de dados Node.js em um projeto de site para avaliação de filmes.
